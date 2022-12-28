@@ -1,0 +1,38 @@
+{
+    "amount": 5,
+    "obj": [
+        {
+            "name": "Animal",
+            "_continent": "Australia",
+            "_color": "red"
+        },
+        {
+            "name": "Bear",
+            "_continent": "Asia",
+            "_color": "brown",
+            "_max_speed": 56,
+            "_life_expectancy": 30
+        },
+        {
+            "name": "Cheetah",
+            "_continent": "Africa",
+            "_color": "yellow",
+            "_max_speed": 110,
+            "_weight": 70
+        },
+        {
+            "name": "Lama",
+            "_continent": "South_America",
+            "_color": "white",
+            "_max_speed": 50,
+            "_symbol": "power"
+        },
+        {
+            "name": "Penguin",
+            "_continent": "Antarctic",
+            "_color": "black",
+            "_max_speed": 9,
+            "_food": "fish"
+        }
+    ]
+}
